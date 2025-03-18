@@ -29,5 +29,14 @@ Create a div tag
 Trainer Repo:
 https://github.com/neelmyna/dsmca_mar25
 
-
+JS Programs:
+1. Check if the user given number is a Prime number
+2. Find sum of the digits of a number
+3. Check if user given character is:
+	A. an alphabet
+	B. alpha numeric
+	C. is a digit
+4. Find smallest and biggest numbers in the user given array
+5. Find 2nd smallest digit in a number
+6. Accept a string from the user and remove the extra spaces and tab before and after the string.
 
