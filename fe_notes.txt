@@ -40,3 +40,21 @@ JS Programs:
 5. Find 2nd smallest digit in a number
 6. Accept a string from the user and remove the extra spaces and tab before and after the string.
 
+DIFFERENT FOR LOOP IN JS:
+
+scores = [23, 1, 9, 96, 55, 78, 33, 2, 41]
+
+for(let i = 0; i < scores.length; i++)
+	console.log(scores[i])
+	
+for(const score of scores)
+	console.log(score)
+	
+scores.forEach(score) => {
+	console.log(score)
+}
+
+scores.map(score) => {
+	console.log(score)
+}
+---------------------------------------

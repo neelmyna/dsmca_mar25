@@ -4,6 +4,7 @@ function doSquare() {
     document.getElementById("output").value = square;
     document.getElementById("output_caption").innerHTML = "square";
 }
+
 function doCube() {
     let num = parseInt(document.getElementById("number").value);
     let cube = num * num * num;
