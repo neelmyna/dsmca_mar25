@@ -2,7 +2,7 @@ var num1="", num2="", op="";
 function calc(ch){
     if(ch >= '0' && ch <= '9') {
         let box = document.getElementById("box").value;
-        box += ch;
+        box += ch; // box = box + ch
         document.getElementById("box").value = box;
     }else if(ch == '=') {
         num2 = document.getElementById("box").value;
