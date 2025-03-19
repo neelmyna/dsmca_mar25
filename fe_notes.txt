@@ -58,3 +58,9 @@ scores.map(score) => {
 	console.log(score)
 }
 ---------------------------------------
+Student Feedback Link:
+https://docs.google.com/forms/d/1edzGpjV66k82YVoTJTSvbnqLv8I0m0-iiwtTy9N0IcU/edit
+
+Student Assessment Link:
+https://docs.google.com/forms/d/1fqIemaUIiq303jCxzUB4LqNUp3g7mc6WQvXoPw1lihs/edit
+
