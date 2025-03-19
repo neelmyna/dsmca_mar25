@@ -1,6 +1,10 @@
 var number_list = [];
 function doAdd(){
-    let number = parseInt(document.getElementById('number').value);
+    if(document.getElementById('number').value == '') {
+        alert('Text box is empty')
+        return
+    }
+    let number = parseInt(document.getElementById('number').value)
     number_list.push(number);
     let items = '';
     for(let n of number_list) {
