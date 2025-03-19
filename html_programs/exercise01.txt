@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Students List 
 <Add Student>
 
@@ -5,4 +6,13 @@ Students List
 1   507     Sesha        BTech     CSE    4         Edit  Delete 
 2   546     Jagadeesh    BTech     CSE    4         Edit  Delete 
 3   5H0     Pawan        BTech     CSE    4         Edit  Delete 
+=======
+Students List 
+<Add Student>
+
+#   USN     Name         Degree    Course Year
+1   507     Sesha        BTech     CSE    4         Edit  Delete 
+2   546     Jagadeesh    BTech     CSE    4         Edit  Delete 
+3   5H0     Pawan        BTech     CSE    4         Edit  Delete 
+>>>>>>> 5ee3c30dc5eb690903da93722eb7574da73a8af3
 4   5M0     Saji         BTech     CSE    4         Edit  Delete 
